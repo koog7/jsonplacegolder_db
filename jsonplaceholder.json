@@ -53,7 +53,7 @@
       ],
       "jobs_created": 3000,
       "taxes": 13000000
-    }
+    },
     {
       "id": 5,
       "year": 2026,
@@ -64,8 +64,8 @@
         "Company S"
       ],
       "jobs_created": 3000,
-      "taxes": 100000
-    }
+      "taxes": 550000
+    },
     {
       "id": 5,
       "year": 2027,

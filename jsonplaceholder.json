@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "year": 2021,
+      "it_companies": [
+        "Company A",
+        "Company B",
+        "Company C"
+      ],
+      "jobs_created": 1000,
+      "taxes": 5000000
+    },
+    {
+      "id": 2,
+      "year": 2022,
+      "it_companies": [
+        "Company X",
+        "Company Y"
+      ],
+      "jobs_created": 1500,
+      "taxes": 7000000
+    },
+    {
+      "id": 3,
+      "year": 2023,
+      "it_companies": [
+        "Company M",
+        "Company N",
+        "Company O"
+      ],
+      "jobs_created": 2000,
+      "taxes": 9000000
+    },
+    {
+      "id": 4,
+      "year": 2024,
+      "it_companies": [
+        "Company Z",
+        "Company D",
+        "Company E"
+      ],
+      "jobs_created": 2500,
+      "taxes": 11000000
+    },
+    {
+      "id": 5,
+      "year": 2025,
+      "it_companies": [
+        "Company P",
+        "Company Q",
+        "Company R",
+        "Company S"
+      ],
+      "jobs_created": 3000,
+      "taxes": 13000000
+    }
+  ]
